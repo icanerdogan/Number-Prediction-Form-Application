@@ -1,5 +1,5 @@
 <h1> Number Prediction C# Form Application </h1>
-<a href="https://www.youtube.com/watch?v=4usrgdiWgF8">Konu Anlatım Videosu / Lecture Video </b>
+<a href="https://www.youtube.com/watch?v=4usrgdiWgF8">Konu Anlatım Videosu / Lecture Video </a>
 <img src="images/app2.PNG" alt="Number Prediction Form Application">
 <img src="images/app3.PNG" alt="Number Prediction C# Form Application">
 
