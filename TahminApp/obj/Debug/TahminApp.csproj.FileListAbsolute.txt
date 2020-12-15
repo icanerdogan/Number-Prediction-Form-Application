@@ -1,0 +1,10 @@
+C:\Users\Can\Documents\Rider Project\GUIform\SayiTahmini\TahminApp\TahminApp\bin\Debug\TahminApp.exe.config
+C:\Users\Can\Documents\Rider Project\GUIform\SayiTahmini\TahminApp\TahminApp\bin\Debug\TahminApp.exe
+C:\Users\Can\Documents\Rider Project\GUIform\SayiTahmini\TahminApp\TahminApp\bin\Debug\TahminApp.pdb
+C:\Users\Can\Documents\Rider Project\GUIform\SayiTahmini\TahminApp\TahminApp\obj\Debug\TahminApp.csprojAssemblyReference.cache
+C:\Users\Can\Documents\Rider Project\GUIform\SayiTahmini\TahminApp\TahminApp\obj\Debug\TahminApp.Properties.Resources.resources
+C:\Users\Can\Documents\Rider Project\GUIform\SayiTahmini\TahminApp\TahminApp\obj\Debug\TahminApp.csproj.GenerateResource.cache
+C:\Users\Can\Documents\Rider Project\GUIform\SayiTahmini\TahminApp\TahminApp\obj\Debug\TahminApp.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\Rider Project\GUIform\SayiTahmini\TahminApp\TahminApp\obj\Debug\TahminApp.exe
+C:\Users\Can\Documents\Rider Project\GUIform\SayiTahmini\TahminApp\TahminApp\obj\Debug\TahminApp.pdb
+C:\Users\Can\Documents\Rider Project\GUIform\SayiTahmini\TahminApp\TahminApp\obj\Debug\TahminApp.Form1.resources
