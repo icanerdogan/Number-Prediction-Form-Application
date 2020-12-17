@@ -1,7 +1,8 @@
 <h1> Number Prediction C# Form Application </h1>
 <a href="https://www.youtube.com/watch?v=4usrgdiWgF8"><b> Konu Anlatım Videosu / Lecture Video </b></a><br/>
-<a href="https://github.com/icanerdogan/Number-Prediction-Form-Application/blob/master/TahminApp/bin/Debug/TahminApp.exe"><b>Exe File (Press Download)</b></a><br/>
 <b>-------------------------------------------</b>
+<a href="https://github.com/icanerdogan/Number-Prediction-Form-Application/blob/master/TahminApp/bin/Debug/TahminApp.exe"><b>Exe File (Press Download)</b></a><br/>
+
 <img src="images/app2.PNG" alt="Number Prediction Form Application">
 <img src="images/app3.PNG" alt="Number Prediction C# Form Application">
 
